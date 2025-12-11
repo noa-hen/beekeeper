@@ -59,6 +59,7 @@
     <hive.version>2.3.7</hive.version>
     <hcommon-hive-metastore.version>1.4.2</hcommon-hive-metastore.version>
     <jib.maven.plugin.version>3.4.4</jib.maven.plugin.version>
+    <jacoco.version>0.8.11</jacoco.version>
   </properties>
 
   <dependencyManagement>
