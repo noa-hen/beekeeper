@@ -43,7 +43,7 @@
     <assertj.version>3.12.2</assertj.version>
     <awaitility.version>3.1.6</awaitility.version>
     <docker.registry>expediagroup</docker.registry>
-    <jdk.version>11</jdk.version>
+    <jdk.version>17</jdk.version>
     <junit.jupiter.version>5.6.3</junit.jupiter.version>
     <logback.version>1.2.3</logback.version>
     <log4j2.version>2.16.0</log4j2.version>
@@ -54,7 +54,7 @@
     <springframework.boot.version>2.7.9</springframework.boot.version>
     <springframework.version>5.3.25</springframework.version>
     <testcontainers.version>1.17.6</testcontainers.version>
-    <docker.from.tag>11-slim</docker.from.tag>
+    <docker.from.tag>17-slim</docker.from.tag>
     <jackson.version>2.17.2</jackson.version>
     <hive.version>2.3.7</hive.version>
     <hcommon-hive-metastore.version>1.4.2</hcommon-hive-metastore.version>
